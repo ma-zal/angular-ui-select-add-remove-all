@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-select-add-remove-all",
-  "version": "0.13.1",
+  "version": "0.14.9",
   "homepage": "https://github.com/ma-zal/angular-ui-select-add-remove-all",
   "authors": [
     "Martin Zaloudek, CZ"
@@ -22,6 +22,6 @@
     "url": "https://github.com/ma-zal/angular-ui-select-add-remove-all"
   },
   "dependencies": {
-    "ui-select": "angular-ui-select#~0.13.1"
+    "ui-select": "angular-ui-select#>0.13.1"
   }
 }
